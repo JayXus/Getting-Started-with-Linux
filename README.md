@@ -4,8 +4,9 @@
 
 时间和精力有限，有些内容没有写，其中也肯定有不少错误的地方。如果需要什么内容或提出补充和纠错，可以直接在GitHub上或者我的网站 (https://pa.ci/157.html) 中发言，如果有时间会添加进去，也欢迎PR来增加内容。
 
-本教程写于2021年下半年，2024年12月进行第一次大幅更新，采用的系统为Debian GNU/Linux 12 (bookworm)。
 
+2025年9月进行第二次大幅更新，采用的系统为Debian GNU/Linux 13(trixie)。
+~~2024年12月进行第一次大幅更新，采用的系统为Debian GNU/Linux 12 (bookworm)。~~
 ~~本教程写于2021年下半年，采用的系统为Debian GNU/Linux 11 (bullseye)。~~
 
 
